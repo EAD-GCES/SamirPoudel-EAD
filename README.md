@@ -7,8 +7,8 @@
 | 1 | [Government Enterprise Appplication Framework (GEAFs)] |
 | 2 | [Short notes on Agile Methodologies] |
 
-[Government Enterprise Appplication Framework (GEAFs)]:https://github.com/SamirPoudel/EAD/blob/main/Assignments/Assignment_1.md
-[Short notes on Agile Methodologies]:https://github.com/SamirPoudel/EAD/blob/main/Assignments/Assignment_2.md
+[Government Enterprise Appplication Framework (GEAFs)]:https://github.com/EAD-GCES/SamirPoudel-EAD/blob/main/Assignments/Assignment_1.md
+[Short notes on Agile Methodologies]:https://github.com/EAD-GCES/SamirPoudel-EAD/blob/main/Assignments/Assignment_2.md
 
 ## Practicals
 
