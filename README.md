@@ -22,4 +22,4 @@
 [Getting started with Git]:https://github.com/EAD-GCES/SamirPoudel-EAD/blob/main/Practicals/Lab1/Getting%20started%20with%20Git.md
 [Contributing to Open Source Projects]:https://github.com/EAD-GCES/SamirPoudel-EAD/blob/main/Practicals/Lab2/Contributing%20to%20Projects.md
 [Singleton Design Pattern]:https://github.com/EAD-GCES/SamirPoudel-EAD/tree/main/Practicals/Lab3
-[Factory Design Pattern]:https://github.com/SamirPoudel/EAD/tree/main/Practicals/Lab4
+[Factory Design Pattern]:https://github.com/EAD-GCES/SamirPoudel-EAD/tree/main/Practicals/Lab4
